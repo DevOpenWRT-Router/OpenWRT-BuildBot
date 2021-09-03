@@ -25,6 +25,7 @@ RUN \
 		libelf-dev \
 		libncurses5-dev \
 		locales \
+		mkisofs \
 		pv \
 		pwgen \
 		python \
